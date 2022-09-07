@@ -13,6 +13,4 @@ function fetchCountries(name) {
 
 export { fetchCountries };
 
-// https://restcountries.com/v3.1/name/{name}
-
 // https://restcountries.com/v2/all?fields=name.official,capital,population,flags.svg,languages,currencies
